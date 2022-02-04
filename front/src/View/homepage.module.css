@@ -1,0 +1,214 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.firstDiv {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+}
+
+.oi{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav {
+    width: 100%;
+    background-color: rgb(110, 110, 110);
+    height: 30px;
+}
+
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.nav ul li {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.overview {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 910px;
+    height: 300px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+}
+
+.invoicing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 910px;
+    height: 300px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+}
+
+.profile {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.first3divs {
+    display: flex;
+    flex-direction: row;
+}
+
+.area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+}
+
+.locations {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+}
+
+.second3divs {
+    display: flex;
+    flex-direction: row;
+}
+
+.tipology {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+}
+
+.certificate {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+}
+ .prices {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+ }
+
+ .condition {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+ }
+
+ .third3divs {
+    display: flex;
+    flex-direction: row;
+ }
+
+ .year {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+ }
+
+ .types {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat;
+ }
+ .project {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    background-color: white;
+    border: wheat
+ }

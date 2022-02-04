@@ -1,0 +1,19 @@
+1º npm install Router
+2º npm install mongodb
+3º npm install bson-objectid
+
+4º npm install cors(Opcional se der error ao fzr fetch da Db!!)
+
+5º npm install express-json
+
+6º npm install react-router-dom
+
+7º npm install react-apexcharts apexcharts
+
+8º npm install fetch
+
+9ª npm add react-google-charts 
+
+10ª npm install --save react @trendmicro/react-sidenav
+
+11ª npm install react-icons --save

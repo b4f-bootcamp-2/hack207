@@ -1,0 +1,2 @@
+-Deve ser possível escolher entre user e admin na Landing page;
+-Deve ser possívelo user (tendo em conta)
